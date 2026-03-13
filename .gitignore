@@ -58,8 +58,6 @@ typings/
 .env
 
 # RSA Keys (JWT RS256)
-private.pem
-public.pem
 
 # next.js build output
 .next
